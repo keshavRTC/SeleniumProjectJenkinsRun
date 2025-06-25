@@ -1,0 +1,14 @@
+# Ignore IDE configs
+.classpath
+.project
+.settings/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore build/test outputs
+target/
+test-output/
+
+# Ignore logs or reports if any
+*.log
